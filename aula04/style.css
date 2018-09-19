@@ -1,0 +1,16 @@
+div{
+    border: 2px solid red;
+    display: flex;
+    height: 500px;
+    background: darkblue;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.black{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    /* margin: 20px; */
+}

@@ -1,0 +1,22 @@
+ol{
+    color: blue;
+}
+h3{
+    color: red;
+}
+
+.tempero{
+    color: yellow;
+}
+
+#ordenada{
+    color: pink;
+}
+
+ul li{
+    border: 2px solid darkgreen;
+}
+
+body{
+    background-color: darkblue;
+}
